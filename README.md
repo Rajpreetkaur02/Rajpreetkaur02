@@ -1,4 +1,4 @@
-<img src="https://github.com/Rajpreetkaur02/Rajpreetkaur02/assets/78468285/80fd073e-227e-46f9-a133-819b8572b541" width=200 height=150/>
+<img src="https://github.com/Rajpreetkaur02/Rajpreetkaur02/assets/78468285/80fd073e-227e-46f9-a133-819b8572b541" width=100% height=30%/>
 
 # 💫 About Me:
 Hey there! I'm Rajpreet, a 3rd year BTech student learning web development and a self-proclaimed nerd with a passion for all things tech. <br><br>🔭 I’m currently working on Full-stack web development<br>👯 I’m looking to collaborate on web development-based open-source projects<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact, When I'm not diving deep into code, you can usually find me binge-watching my favorite shows or solving some Leetcode questions.<br><br>reach me at: kaurrajpreet2018@gmail.com
