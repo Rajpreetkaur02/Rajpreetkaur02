@@ -1,4 +1,6 @@
-### Hi there 👋
+![Alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d94eabf-4257-437f-a08d-5ee63b69705f/dcaop0b-745a0982-7537-4969-ae93-0b92c2eca5c2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkOTRlYWJmLTQyNTctNDM3Zi1hMDhkLTVlZTYzYjY5NzA1ZlwvZGNhb3AwYi03NDVhMDk4Mi03NTM3LTQ5NjktYWU5My0wYjkyYzJlY2E1YzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QusIRhdCrX6TdYrPAQOFRHc6xmUMvqAS6XyzZA9t798)
+
+## Hi there 👋
 
 # 💫 About Me:
 Hey there! I'm Rajpreet, a web developer and self-proclaimed nerd with a passion for all things tech. <br><br>🔭 I’m currently working on Full-stack web development<br>👯 I’m looking to collaborate on web development-based open-source projects<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact, When I'm not diving deep into code, you can usually find me binge-watching my favourite shows or solving some Leetcode questions.<br><br>reach me at: kaurrajpreet2018@gmail.com
