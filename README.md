@@ -1,10 +1,8 @@
 
-![Let's Go Home, Ronald Kuang](https://github.com/Rajpreetkaur02/Rajpreetkaur02/assets/78468285/404ce3f9-721b-4591-97c9-6aa8753e228a)
-
-## Hi there 👋
+![Hi there! I am Rajpreet Kaur](https://github.com/Rajpreetkaur02/Rajpreetkaur02/assets/78468285/80fd073e-227e-46f9-a133-819b8572b541)
 
 # 💫 About Me:
-Hey there! I'm Rajpreet, a web developer and self-proclaimed nerd with a passion for all things tech. <br><br>🔭 I’m currently working on Full-stack web development<br>👯 I’m looking to collaborate on web development-based open-source projects<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact, When I'm not diving deep into code, you can usually find me binge-watching my favourite shows or solving some Leetcode questions.<br><br>reach me at: kaurrajpreet2018@gmail.com
+Hey there! I'm Rajpreet, a 3rd year BTech student learning web development and a self-proclaimed nerd with a passion for all things tech. <br><br>🔭 I’m currently working on Full-stack web development<br>👯 I’m looking to collaborate on web development-based open-source projects<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact, When I'm not diving deep into code, you can usually find me binge-watching my favorite shows or solving some Leetcode questions.<br><br>reach me at: kaurrajpreet2018@gmail.com
 
 
 ## 🌐 Socials:
